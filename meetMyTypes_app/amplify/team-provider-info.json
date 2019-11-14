@@ -1,0 +1,14 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-meetmytypesapp-dev-224533-authRole",
+            "UnauthRoleArn": "arn:aws:iam::579421520652:role/amplify-meetmytypesapp-dev-224533-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::579421520652:role/amplify-meetmytypesapp-dev-224533-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-meetmytypesapp-dev-224533-deployment",
+            "UnauthRoleName": "amplify-meetmytypesapp-dev-224533-unauthRole",
+            "StackName": "amplify-meetmytypesapp-dev-224533",
+            "StackId": "arn:aws:cloudformation:us-east-1:579421520652:stack/amplify-meetmytypesapp-dev-224533/36f5e290-0691-11ea-9be2-0a55488d44ba"
+        }
+    }
+}
