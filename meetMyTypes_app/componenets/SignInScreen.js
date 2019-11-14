@@ -1,8 +1,9 @@
 import React from 'react';
 import { Text, View } from 'react-native';
 import { Button } from 'react-native-elements'
-
-
+import Amplify, { Auth } from 'aws-amplify';
+import awsconfig from './aws-exports';
+Amplify.configure(awsconfig);
 
 
 class SignInScreen extends React.Component {
