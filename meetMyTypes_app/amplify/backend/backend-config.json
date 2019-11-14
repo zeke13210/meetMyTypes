@@ -1,1 +1,9 @@
-{}
+{
+	"auth": {
+		"meetmytypesapp18b4cbf3": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": []
+		}
+	}
+}

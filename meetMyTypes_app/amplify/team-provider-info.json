@@ -9,6 +9,11 @@
             "UnauthRoleName": "amplify-meetmytypesapp-dev-224533-unauthRole",
             "StackName": "amplify-meetmytypesapp-dev-224533",
             "StackId": "arn:aws:cloudformation:us-east-1:579421520652:stack/amplify-meetmytypesapp-dev-224533/36f5e290-0691-11ea-9be2-0a55488d44ba"
+        },
+        "categories": {
+            "auth": {
+                "meetmytypesapp18b4cbf3": {}
+            }
         }
     }
 }
